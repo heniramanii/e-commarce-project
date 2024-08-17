@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "1f1e",
+      "registerUsername": "heny",
+      "registerEmail": "heniramanii123@gmail.com",
+      "isamin": "",
+      "registerPassword": "12121",
+      "isadmin": true
+    }
+  ],
+  "products": [
+    ""
+  ],
+  "category": [
+    "",
+    {
+      "id": "b16b",
+      "category": "saree"
+    }
+  ]
+}
